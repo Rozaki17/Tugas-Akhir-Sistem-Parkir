@@ -1,4 +1,5 @@
-Ini berisi catatan terkait bab 1
+Ini berisi catatan terkait bab 1:
 
-INI SARAN
+
+[INI SARAN]
 Penelitian ini diharapkan dapat memberikan kontribusi signifikan dalam meningkatkan keamanan parkir di Fakultas Teknik Universitas Mataram. Dengan adanya teknologi pengenalan wajah berhelm dan plat kendaraan yang terintegrasi, diharapkan akan terjadi peningkatan efektivitas dalam mengidentifikasi pengendara yang diizinkan masuk ke dalam area parkir, sehingga dapat mengurangi risiko kejadian curanmor yang merugikan komunitas kampus. Selain itu, penelitian ini juga dapat menjadi landasan untuk pengembangan sistem keamanan parkir yang serupa di tempat lain, baik di dalam maupun di luar lingkungan kampus
